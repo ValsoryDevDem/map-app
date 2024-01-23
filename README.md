@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# React Map App
+
+A simple React application for adding, dragging, and deleting markers on a Google Map. The application integrates with Firestore for storing and retrieving markers.
+
+## Features
+
+- Add markers by clicking on the map.
+- Drag markers to update their positions.
+- Delete individual markers or clear all markers.
+- Markers are stored in Firestore for persistence.
+
+## Technologies Used
+
+- React
+- @react-google-maps/api
+- Firebase (Firestore)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
